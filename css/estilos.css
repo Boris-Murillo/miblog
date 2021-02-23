@@ -50,3 +50,13 @@ body
     background: white;
     padding: 1em;
 }
+
+footer{
+    background-color: #444;  
+}
+
+footer p{
+     padding: 5;
+     margin: 0 auto;
+     color: white;
+}
